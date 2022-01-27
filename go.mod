@@ -1,5 +1,6 @@
 module github.com/lfigueiredo82/klever
 
+// +heroku goVersion go1.15      <--add to
 go 1.17
 
 require (
